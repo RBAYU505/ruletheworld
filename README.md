@@ -15,5 +15,6 @@ No. | Nama
 1. | Hanif Isnain Musthafa
 
 - Taufik Nur Rakhman
+- Resta Bayu Setiawan (145410161)
 
 - [x] Selesai :+1:
